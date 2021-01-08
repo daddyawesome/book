@@ -1,7 +1,14 @@
-Welcome to your Jupyter Book
-============================
+GitHub Actions with Jupyter Book
+================================
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This is a small sample book built with GitHub Actions. It was built using the
+following action:
 
-Check out the content pages bundled with this sample book to get started.
+```{literalinclude} .github/workflows/book.yml
+:language: yaml
+```
+
+and this `requirements.txt` file:
+
+```{literalinclude} requirements.txt
+```
