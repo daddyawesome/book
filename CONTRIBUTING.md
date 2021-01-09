@@ -25,8 +25,8 @@ and "help wanted" is open to whoever wants to implement it.
 
 ## Write Documentation
 
-Daddy Awesome and Data Science could always use more documentation, whether as part of the
-official Daddy Awesome and Data Science docs, in docstrings, or even on the web in blog posts,
+DaddyAwesome could always use more documentation, whether as part of the
+official DaddyAwesome docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 ## Submit Feedback
@@ -42,7 +42,7 @@ If you are proposing a feature:
 
 ## Get Started
 
-Ready to contribute? Here's how to set up `Daddy Awesome and Data Science` for local development.
+Ready to contribute? Here's how to set up `DaddyAwesome` for local development.
 
 1. Fork the repo on GitHub.
 2. Clone your fork locally.
@@ -53,4 +53,4 @@ Ready to contribute? Here's how to set up `Daddy Awesome and Data Science` for l
 
 ## Code of Conduct
 
-Please note that the Daddy Awesome and Data Science project is released with a [Contributor Code of Conduct](CONDUCT.md). By contributing to this project you agree to abide by its terms.
+Please note that the DaddyAwesome project is released with a [Contributor Code of Conduct](CONDUCT.md). By contributing to this project you agree to abide by its terms.
